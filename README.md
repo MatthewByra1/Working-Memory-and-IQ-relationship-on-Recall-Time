@@ -1,2 +1,4 @@
 # Working-Memory-and-IQ-relationship-on-Recall-Time
 Intuition suggests that given the task of immediately recalling a finite sequence of words a higher IQ would correlate with lower recall error rates, and faster recollection of terms. A statistical analysis was done on a data set of the performance of 141 individuals with a word recollection task and their corresponding IQs to provide evidence for the intuition. The 3 criteria for analysis were; modeling, fitting and finding the coefficient correlation of error rate and IQ, time taken to complete the task against IQ and the pace of response against IQ. The relationship with error rate and IQ gave provided a non-trivial correlation of -0.22 suggesting that IQ may decrease error in recollection.
+
+REFER TO PROJECT PAPER PDF FOR ANALYSIS, CODE AND DATA VISUALIZATIONS
